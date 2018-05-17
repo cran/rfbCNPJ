@@ -1,0 +1,14 @@
+e4001ccbc393479b615a5bd5bb80dba0 *DESCRIPTION
+1b2e15bfbb6e223ebb82fff5ad8c2638 *LICENSE
+b6b69e71e25546f04c06de1671341aea *NAMESPACE
+c59ba0cb6ef5f7107c5b2b900746471f *R/data.R
+27f0d2b2467d0c57bf679b494f3de7a6 *R/download.R
+46e4405e2535350663d405e9fc1e5b8a *R/parse.R
+8854c13fd04d022831ee0e775be98c51 *R/utils.R
+dae1509dcbad182039d90a9d1a66c69e *README.md
+192bae7fcb39cde3915a0582dca3d407 *data/qualificacao.rda
+0f020b37daf27c2fd4c78c574285ef1b *man/pipe.Rd
+0bacf8136c6524837278b8b82a91bf96 *man/qualificacao.Rd
+2ead308e47061141cfec48bee463d9d8 *man/rfb_download.Rd
+50358621c1ec16cdbe3756654ff6bc16 *man/rfb_import.Rd
+5847a74ba7949f42386651d904ebe7b2 *man/rfb_read.Rd
